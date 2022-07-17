@@ -1,2 +1,4 @@
 /node_modules/
 /web/.idea
+/.idea
+/logic-wasm-lib/.idea
